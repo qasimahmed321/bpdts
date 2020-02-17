@@ -25,4 +25,4 @@ This call gets all users within 50 miles of London city
 The JSON parameter can be set to true to return data in json format or false to return as PHP array 
 
 # EXTENDING
-All functions are made to be extendable. The target city can be changed in core.php class where you may change Lat and Long. Furthermore, distance from London is also editable in the parameter in indedx.php
+All functions are made to be extendable. The target city can be changed in core.php class where you may change Lat and Long. Furthermore, distance from London is also editable in the parameter in index.php
